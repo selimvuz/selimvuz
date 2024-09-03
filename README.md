@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
-<h3 align="center">Front-end Web Developer</h3>
+<h3 align="center">-</h3>
 
 - 🔭 I’m currently working on [a chatbot project](https://github.com/selimvuz/BT-Project)
 
