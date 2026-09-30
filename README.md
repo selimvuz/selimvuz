@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
 <h3 align="center">-</h3>
 
-- 🔭 I’m currently working on [a chatbot project](https://github.com/selimvuz/BT-Project)
-
-- 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 All of my projects are available at [https://selimvuz.github.io/](https://selimvuz.github.io/)
-
-- 💬 Ask me about **JS and Python**
-
 - 📫 How to reach me **yavuzselimdogdu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
