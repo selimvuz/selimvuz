@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/SAP%20HCM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HCM"/>
   <img src="https://img.shields.io/badge/PA%20%2F%20OM%20%2F%20PT-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP PA OM PT"/>
   <img src="https://img.shields.io/badge/Business%20Workflow-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business Workflow"/>
-  <img src="https://img.shields.io/badge/My%20Inbox-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP My Inbox"/>
   <img src="https://img.shields.io/badge/Adobe%20Forms-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Adobe Forms"/>
   <img src="https://img.shields.io/badge/Web%20Dynpro%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Web Dynpro ABAP"/>
 </p>
