@@ -3,8 +3,7 @@
 <h3 align="center">SAP Software Engineer | ABAP & Fiori Developer</h3>
 
 <p align="center">
-  SAP developer with 2.5+ years of professional experience, focusing on
-  ABAP, SAP Fiori, SAPUI5, OData and enterprise application development.
+  Professional SAP developer specializing in ABAP, SAP Fiori, SAPUI5, OData, and enterprise application development.
 </p>
 
 - 💼 Working primarily with **ABAP, SAP Fiori, SAPUI5 and OData**
